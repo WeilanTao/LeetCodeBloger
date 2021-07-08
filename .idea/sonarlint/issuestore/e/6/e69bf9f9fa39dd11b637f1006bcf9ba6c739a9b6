@@ -1,0 +1,12 @@
+
+Z
+java:S1197"8Move the array designator from the variable to the type.(È¨–Çþÿÿÿÿ8´Î´Ú¦/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(öÅÇ¦üÿÿÿÿ8´Î´Ú¦/
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ8´Î´Ú¦/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(‰•»«úÿÿÿÿ8´Î´Ú¦/
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(…ÇƒÄ8´Î´Ú¦/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶…Ì½þÿÿÿÿ8þ„¶Ú¦/
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8´Î´Ú¦/
+H
+java:S1481"+Remove this unused "isEven" local variable.(ðø–’8ÿááÚ¦/
